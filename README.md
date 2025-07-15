@@ -12,7 +12,7 @@ this repository is not a joke. but also it is. but also it ruined my sleep sched
 
 a cry for help  
 a tribute to thermodynamics  
-a semantic guts , maybe  
+maybe semantic guts ,   
 maybe syntax shell, or 
 maybe a sacrificial pipeline.
 
