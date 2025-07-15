@@ -1,6 +1,5 @@
-![Eyes](./eyes.gif)
 # ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
-
+![Eyes](./eyes.gif)
 
 hi.  
 i don’t know why this exists.  
@@ -26,7 +25,6 @@ whatever it is, it’s mine.
 
 ## how to use
 
-
 1. install the usual stuff. idk. you know what to do. if you don’t, you shouldn’t be here tbh.
    ```bash
-   git clone this-mess.git
+   git clone this.git
