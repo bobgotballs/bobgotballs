@@ -18,7 +18,7 @@ maybe a sacrificial pipeline.
 
 whatever it is, it’s mine.
 
-("C:\Users\juvel\Pictures\Downloads\gengar.gif"./cool-animation.gif)
+(gengar/cool-animation.gif)
 
 ## how to use
 
