@@ -19,7 +19,8 @@ maybe a sacrificial pipeline.
 whatever it is, it’s mine.
 
 
-! (gengar.gif)
+![Gengar](./gengar/gengar.gif)
+
 
 
 ## how to use
