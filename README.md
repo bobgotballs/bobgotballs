@@ -1,5 +1,5 @@
 # ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
-![Eyes](./eyes.gif)
+![Burger](./burger.webp)
 
 hi.  
 i don’t know why this exists.  
@@ -19,7 +19,7 @@ maybe a sacrificial pipeline.
 whatever it is, it’s mine.
 
 
-![Gengar](./gengar.gif)
+![Tired](./tired.gif)
 
 
 
