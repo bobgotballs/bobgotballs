@@ -18,7 +18,8 @@ maybe a sacrificial pipeline.
 
 whatever it is, it’s mine.
 
-(gengar/cool-animation.gif)
+![Cool animation](./gengar/cool-animation.gif)
+
 
 ## how to use
 
