@@ -19,10 +19,6 @@ maybe a sacrificial pipeline.
 whatever it is, it’s mine.
 
 
-![Tired](./tired.webp)
-
-
-
 ## how to use
 
 1. install the usual stuff. idk. you know what to do. if you don’t, you shouldn’t be here tbh.
